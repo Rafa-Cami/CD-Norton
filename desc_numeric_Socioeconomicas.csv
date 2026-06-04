@@ -1,0 +1,3 @@
+,count,missing,mean,std,min,q1,median,q3,max
+job_satisfaction_score,2500.0,0,5.4804,2.857145630250755,1.0,3.0,5.0,8.0,10.0
+financial_stress_level,2500.0,0,5.476,2.8852649621067084,1.0,3.0,6.0,8.0,10.0

@@ -1,0 +1,9 @@
+sanity_check,n_records,percent_sample,status
+18-20 & full-time/married,150,6.0,Atenção
+Unemployed with >0 hours,649,25.96,Atenção
+Employed with 0 hours,0,0.0,OK
+OutOfRange: age,0,0.0,OK
+OutOfRange: sleep_hours,0,0.0,OK
+OutOfRange: physical_activity_hours_per_week,0,0.0,OK
+OutOfRange: screen_time_hours_per_day,0,0.0,OK
+OutOfRange: working_hours_per_week,0,0.0,OK
